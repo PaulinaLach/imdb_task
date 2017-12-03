@@ -17,6 +17,10 @@ By default it uses `imdb` database with trust authentication (only for developme
 
 File is in api/management/commands/tsv_importer.py
 
+## Running web server
+
+`manage.py runserver`
+
 ## API
 
 There are two JSON endpoints:
